@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.print("\tDutta");
 		System.out.print(",Male");
 		System.out.print(",Hindu");
+		System.out.println("i am user 2");
 	}
 
 }
